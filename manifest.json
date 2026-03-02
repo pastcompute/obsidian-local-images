@@ -1,8 +1,8 @@
 {
   "id": "obsidian-local-images-pastcompute",
   "name": "Local images",
-  "version": "0.99.1",
-  "minAppVersion": "0.99.1",
+  "version": "0.99.0",
+  "minAppVersion": "0.99.0",
   "description": "Local Images plugin finds all links to external images in your notes, then downloads and saves images locally, and finally adjusts the image links in your notes to point to the saved image files.",
   "author": "catalysm, aleksey-rezvov, pastcompute",
   "authorUrl": "https://github.com/pastcompute/obsidian-local-images",
